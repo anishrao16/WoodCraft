@@ -73,6 +73,10 @@ body {
   outline: 0 !important;
 }
 
+stars {
+  margin: 0 auto;
+}
+
 hr {
   box-sizing: content-box;
   height: 0;
